@@ -5,7 +5,7 @@
 ## Technologies Used
 
 <div align="center">
-<img align="center" height="75" width="75" src="https://skillicons.dev/icons?i=node"/>
+<img align="center" height="75" width="75" src="https://skillicons.dev/icons?i=nodejs"/>
 <img align="center" height="75" width="75" src="https://skillicons.dev/icons?i=react"/>
 <img align="center" height="75" width="75" src="https://skillicons.dev/icons?i=mongodb"/>
 <img align="center" height="75" width="75" src="https://skillicons.dev/icons?i=vscode"/>
